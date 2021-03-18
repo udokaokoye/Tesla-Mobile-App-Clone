@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "TeslaClone",
+    "name": "Tesla Clone",
     "slug": "TeslaClone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/iconn.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/tessss.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,6 +20,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.teslaclone.udokovic",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
